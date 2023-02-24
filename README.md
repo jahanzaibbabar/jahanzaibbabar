@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm JAHANZAIB BABAR</h1>
 <h3 align="center">A passionate Python and ML Engineer from Pakistan</h3>
-<p align="center">
+<h4 align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-  
-   </p>
+
+</h4>
 
 
 <br/>
