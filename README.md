@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm JAHANZAIB BABAR</h1>
 <h3 align="center">A passionate Python and ML Engineer from Pakistan</h3>
 
-### ✍️ Random Dev Quote
-![https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<span align="center">![https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)</span>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanzaibbabar&label=Profile%20views&color=0e75b6&style=flat" alt="jahanzaibbabar" /> </p>
 
