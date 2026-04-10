@@ -10,21 +10,14 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanzaibbabar&label=Profile%20views&color=0e75b6&style=flat" alt="jahanzaibbabar" /> </p>
 
-- 🔭 I’m currently working on **Python And ML**
+Python & Software Engineer who builds backends that think.
 
-- 🌱 I’m currently learning **Machine learning and computer vision**
+I started writing code to scratch my own itch — automating things, connecting APIs, training models to see if they'd actually work. Four years later, that habit became a career: Django, FastAPI, REST APIs, AWS, and enough ML (TensorFlow, PyTorch, YOLO, spaCy) to make the backend smarter when it needs to be.
 
-- 👯 I’m looking to collaborate on **All Public Projects**
+Most of what lives here: production-grade web services, computer vision tools, NLP pipelines, and automation projects. Some things work beautifully. Some are experiments. All of it is real.
 
-- 👨‍💻 All of my projects are available at [https://jahanzaibbabar.me/](https://jahanzaibbabar.me/)
-
-- 💬 Ask me about **Python, Machine Learning, Computer vision, AI, Automation and APIs**
-
-- 📫 How to reach me **mr.jahanzaibbabar@gmail.com**
-
-- 📄 Know about my experiences [http://jahanzaibbabar.me/static/assets/imgs/Resume.pdf](http://jahanzaibbabar.me/static/assets/imgs/Resume.pdf)
-
-- ⚡ Fun fact **I think HTML is a Hacking tool**
+📍 Faisalabad, Pakistan · 🌐 Remote-friendly · 💼 Open to work
+📧 mr.jahanzaibbabar@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
